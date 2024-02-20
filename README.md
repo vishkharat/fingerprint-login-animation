@@ -14,11 +14,9 @@ This application provides a visual representation of a fingerprint login process
    git clone https://github.com/vishkharat/fingerprint-login-animation
 
    
-Usage
+#Usage
 Simply click on the "LOGIN" button to initiate the fingerprint scan animation. The fingerprint animation will appear, followed by the "OK" animation upon successful authentication.
 
-Credits
+#Credits
 This project was created by Vishal Kharat.
 
-License
-This project is licensed under the MIT License 
