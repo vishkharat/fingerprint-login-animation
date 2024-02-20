@@ -13,7 +13,7 @@ This application provides a visual representation of a fingerprint login process
    ```bash
    git clone https://github.com/vishkharat/fingerprint-login-animation
 
-   Open the index.html file in your web browser.
+   
 Usage
 Simply click on the "LOGIN" button to initiate the fingerprint scan animation. The fingerprint animation will appear, followed by the "OK" animation upon successful authentication.
 
